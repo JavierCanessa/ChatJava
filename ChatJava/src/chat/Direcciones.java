@@ -14,7 +14,7 @@ public class Direcciones {
 //    
 //    public Map<String,String>getMapa(){
 //        m.put("Yo", "192.168.0.124");
-//        m.put("Anonimo", "192.168.0.6");
+//        m.put("LinuxMint", "127.0.8.1");
 //        return m;
 //    }
     
