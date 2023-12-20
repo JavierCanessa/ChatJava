@@ -20,7 +20,7 @@ public class Direcciones {
     
     public static Map<String,String>getMapa(){
         Map<String,String>map=new LinkedHashMap();
-        map.put("Yo", "192.168.0.124");
+        map.put("YoUbuntu", "192.168.0.57");
         map.put("Anonimo", "192.168.0.6");
         return map;
     }
